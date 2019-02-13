@@ -40,6 +40,6 @@ The results of MS-UNIQUE on LIVE, and TID13 databases :
 
 ### Citation
 
-Electronic Imaging Link : https://www.ingentaconnect.com/contentone/ist/ei/2017/00002017/00000012/art00006
-ArXiv Link : https://arxiv.org/abs/1811.08947
-Citation BibTex : https://ghassanalregibdotcom.files.wordpress.com/2016/10/mohit_ei2017-bib.zip
+Electronic Imaging Link : https://www.ingentaconnect.com/contentone/ist/ei/2017/00002017/00000012/art00006  
+ArXiv Link : https://arxiv.org/abs/1811.08947  
+Citation BibTex : https://ghassanalregibdotcom.files.wordpress.com/2016/10/mohit_ei2017-bib.zip  
