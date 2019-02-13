@@ -16,20 +16,20 @@ the proposed method is compared against eleven other state of the art methods in
 
 ### MS-UNIQUE : Multi-Model and Sharpness Weighted Unsupervised Image Quality Estimation
 
-The learnt filter weights with the hidden  :
+The learnt filter weights with the corresponding number of hidden units:
 
 <p align="center">
   <img src=/Images/Visualization.png/>
 </p>   
 
-Block Diagram for differentiating weights with color and edges and testing  
+Block Diagram for differentiating weights based on color and edges and testing: 
 
 <p align="center">
   <img src=/Images/BlockDiagram.png/>
 </p>  
 
 
-Applying these weights to original (top) and distorted images (bottom), the obtained feature maps from UNIQUE and MS-UNIQUE :  
+Applying these weights to original (top) and distorted images (bottom), the obtained feature maps from UNIQUE and MS-UNIQUE:  
 <p align="center">
   <img src=/Images/FeatMaps.png/>
 </p>  
