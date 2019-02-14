@@ -7,7 +7,8 @@ https://ghassanalregib.com/unique-unsupervised-image-quality-estimation/).
 
 ### Usage :
 
-Run the demo.m file. 
+Run the demo.m file. Sample original and distorted images are provided.
+The code outputs the quality of the distorted image which lies between 0 and 1 (1 being the best quality).  
 
 ### ABSTRACT
 
